@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{4E379A4D-E730-4186-8521-64A6579232F8}|https">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TestAPI/Controllers/SuperHeroController.cs">
+    <Files>
+      <File FileName="TestAPI/service/impl/SuperHeroServiceImpl.cs" Line="41" Column="20" />
+      <File FileName="TestAPI/service/SuperHeroService.cs" Line="12" Column="19" />
+      <File FileName="TestAPI/Controllers/SuperHeroController.cs" Line="66" Column="22" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TestAPI" expanded="True">
+            <Node name="TestAPI" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="SuperHeroController.cs" selected="True" />
+              </Node>
+              <Node name="service" expanded="True">
+                <Node name="impl" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.TestAPI PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
